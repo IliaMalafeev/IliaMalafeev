@@ -14,9 +14,7 @@
 
 📫 How to reach me:
 
-E-mail: **[12qwerty98@gmail.com](mailto:12qwerty98@gmail.com)**
-
-LinkedIn: **[Ilia Malafeev](https://www.linkedin.com/in/ilia-malafeev/)**
+E-mail: **[12qwerty98@gmail.com](mailto:12qwerty98@gmail.com)** **|** LinkedIn: **[Ilia Malafeev](https://www.linkedin.com/in/ilia-malafeev/)**
 
 WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
@@ -74,6 +72,6 @@ Programming and markup languages: **Java, JavaScript, TypeScript, HTML, CSS**
 
 Frameworks and libraries: **Spring Framework, ReactJS, Hibernate, Tailwind**
 
-Databases and other tools: **MySQL, PostgreSQL, Docker, Amazon-Web-Services, Stripe payments, Git**
+Databases and other tools: **MySQL, PostgreSQL, Docker, Amazon Web Services, Stripe payments, Git**
 
 </div>
