@@ -42,7 +42,7 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <img src="assets/reactjs.svg" width="55" height="55" alt="react">
 
-<img src="assets/hibernate.svg" width="55" height="55" alt="react">
+<img src="assets/hibernate.svg" width="55" height="55" alt="hibernate">
 
 <img src="assets/postgresql.svg" width="55" height="55" alt="postgresql">
 
@@ -61,11 +61,11 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <img src="assets/stripe.svg" width="55" height="55" alt="stripe">
 
-<img src="assets/git.svg" width="55" height="55" alt="stripe">
+<img src="assets/git.svg" width="55" height="55" alt="git">
 
-<img src="assets/intellij-idea.svg" width="55" height="55" alt="postgresql">
+<img src="assets/intellij-idea.svg" width="55" height="55" alt="intellij">
 
-<img src="assets/vs-code.svg" width="55" height="55" alt="postgresql">
+<img src="assets/vs-code.svg" width="55" height="55" alt="vscode">
 
 </div>
 
