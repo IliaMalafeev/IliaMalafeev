@@ -1,10 +1,8 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-
 <h1 align="center"> Hi there, my name is Ilia Malafeev 👋 </h1>
 
 <h3 align="center"> Junior Fullstack | Backend developer 💻 </h3>
 
-<hr>
+<br>
 
 <div align="center">
 
