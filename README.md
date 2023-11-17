@@ -42,6 +42,8 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <img src="assets/reactjs.svg" width="60" height="60" alt="react">
 
+<img src="assets/hibernate.svg" width="60" height="60" alt="react">
+
 </div>
 
 <div align="center">
@@ -57,5 +59,7 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 <img src="assets/aws.svg" width="60" height="60" alt="aws">
 
 <img src="assets/stripe.svg" width="60" height="60" alt="stripe">
+
+<img src="assets/git.svg" width="60" height="60" alt="stripe">
 
 </div>
