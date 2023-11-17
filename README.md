@@ -9,5 +9,5 @@
 * 💬 Ask me about any topic among my techstack or my projects
 
 * 📫 How to reach me:
-    * E-mail: **[12qwerty98@gmail.com](https://mail.google.com/mail/u/12qwerty98@gmail.com/#compose)**
+    * E-mail: **[12qwerty98@gmail.com](mailto:12qwerty98@gmail.com)**
     * LinkedIn: **[Ilia Malafeev](https://www.linkedin.com/in/ilia-malafeev/)**
