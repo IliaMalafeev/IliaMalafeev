@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Ilia Malafeev
 
-<!--
-**IliaMalafeev/IliaMalafeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 I’m currently working on **Bookstore Fullstack project**
 
-Here are some ideas to get you started:
+* 🌱 I’m currently learning **Docker & AWS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👯 I’m looking for a job as **Junior Fullstack | Backend developer**
+
+* 💬 Ask me about any topic among my techstack or my projects
+
+* 📫 How to reach me:
+    * E-mail: **[12qwerty98@gmail.com](https://mail.google.com/mail/u/12qwerty98@gmail.com/#compose)**
+    * LinkedIn: **[Ilia Malafeev](https://www.linkedin.com/in/ilia-malafeev/)**
