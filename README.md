@@ -31,49 +31,44 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <div align="center">
 
-<img src="assets/java.svg" width="60" height="60" alt="java">
+<img src="assets/java.svg" width="50" height="50" alt="java">
 
-<img src="assets/js.svg" width="60" height="60" alt="js">
+<img src="assets/js.svg" width="50" height="50" alt="js">
 
-<img src="assets/ts.svg" width="60" height="60" alt="ts">
+<img src="assets/ts.svg" width="50" height="50" alt="ts">
 
-<img src="assets/html.svg" width="60" height="60" alt="html">
+<img src="assets/html.svg" width="50" height="50" alt="html">
 
-<img src="assets/css.svg" width="60" height="60" alt="css">
+<img src="assets/css.svg" width="50" height="50" alt="css">
 
-<img src="assets/spring.svg" width="60" height="60" alt="spring">
+<img src="assets/spring.svg" width="50" height="50" alt="spring">
 
-</div>
+<img src="assets/reactjs.svg" width="50" height="50" alt="react">
 
+<img src="assets/hibernate.svg" width="50" height="50" alt="react">
 
-<div align="center">
-
-<img src="assets/reactjs.svg" width="60" height="60" alt="react">
-
-<img src="assets/hibernate.svg" width="60" height="60" alt="react">
-
-<img src="assets/postgresql.svg" width="60" height="60" alt="postgresql">
-
-<img src="assets/mysql.svg" width="60" height="60" alt="mysql">
-
-<img src="assets/tailwind.svg" width="60" height="60" alt="tw">
-
-<img src="assets/docker.svg" width="60" height="60" alt="docker">
+<img src="assets/postgresql.svg" width="50" height="50" alt="postgresql">
 
 </div>
 
 
 <div align="center">
 
-<img src="assets/aws.svg" width="60" height="60" alt="aws">
+<img src="assets/mysql.svg" width="50" height="50" alt="mysql">
 
-<img src="assets/stripe.svg" width="60" height="60" alt="stripe">
+<img src="assets/tailwind.svg" width="50" height="50" alt="tw">
 
-<img src="assets/git.svg" width="60" height="60" alt="stripe">
+<img src="assets/docker.svg" width="50" height="50" alt="docker">
 
-<img src="assets/intellij-idea.svg" width="60" height="60" alt="postgresql">
+<img src="assets/aws.svg" width="50" height="50" alt="aws">
 
-<img src="assets/vs-code.svg" width="60" height="60" alt="postgresql">
+<img src="assets/stripe.svg" width="50" height="50" alt="stripe">
+
+<img src="assets/git.svg" width="50" height="50" alt="stripe">
+
+<img src="assets/intellij-idea.svg" width="50" height="50" alt="postgresql">
+
+<img src="assets/vs-code.svg" width="50" height="50" alt="postgresql">
 
 </div>
 
