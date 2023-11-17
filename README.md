@@ -73,12 +73,9 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <div align="center">
 
-Programming and markup languages: **Java, JavaScript, TypeScript, HTML, CSS**
-
-Frameworks and libraries: **Spring Framework, ReactJS, Hibernate, Tailwind**
-
-Databases and other tools: **MySQL, PostgreSQL, Docker, Amazon Web Services, Stripe payments, Git**
-
+Programming and markup languages: **Java, JavaScript, TypeScript, HTML, CSS** \
+Frameworks and libraries: **Spring Framework, ReactJS, Hibernate, Tailwind** \
+Databases and other tools: **MySQL, PostgreSQL, Docker, Amazon Web Services, Stripe payments, Git** \
 IDEs: **IntelliJ IDEA, Visual Studio Code**
 
 </div>
