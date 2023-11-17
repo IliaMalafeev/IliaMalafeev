@@ -28,34 +28,34 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <div align="center">
 
-<img src="assets/icons8-java.svg" width="60" height="60">
+<img src="assets/java.svg" width="60" height="60" alt="java">
 
-<img src="assets/icons8-javascript.svg" width="60" height="60">
+<img src="assets/js.svg" width="60" height="60" alt="js">
 
-<img src="assets/icons8-typescript.svg" width="60" height="60">
+<img src="assets/ts.svg" width="60" height="60" alt="ts">
 
-<img src="assets/icons8-html.svg" width="60" height="60">
+<img src="assets/html.svg" width="60" height="60" alt="html">
 
-<img src="assets/icons8-css.svg" width="60" height="60">
+<img src="assets/css.svg" width="60" height="60" alt="css">
 
-<img src="assets/icons8-spring-boot.svg" width="60" height="60">
+<img src="assets/spring.svg" width="60" height="60" alt="spring">
 
-<img src="assets/icons8-react.svg" width="60" height="60">
+<img src="assets/reactjs.svg" width="60" height="60" alt="react">
 
 </div>
 
 <div align="center">
 
-<img src="assets/icons8-mysql.svg" width="60" height="60">
+<img src="assets/mysql.svg" width="60" height="60" alt="mysql">
 
-<img src="assets/icons8-postgresql.svg" width="60" height="60">
+<img src="assets/postgresql.svg" width="60" height="60" alt="postgresql">
 
-<img src="assets/icons8-tailwind-css.svg" width="60" height="60">
+<img src="assets/tailwind.svg" width="60" height="60" alt="tw">
 
-<img src="assets/icons8-docker.svg" width="60" height="60">
+<img src="assets/docker.svg" width="60" height="60" alt="docker">
 
-<img src="assets/icons8-amazon-web-services.svg" width="60" height="60">
+<img src="assets/aws.svg" width="60" height="60" alt="aws">
 
-<img src="assets/icons8-stripe.svg" width="60" height="60">
+<img src="assets/stripe.svg" width="60" height="60" alt="stripe">
 
 </div>
