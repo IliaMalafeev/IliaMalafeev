@@ -42,6 +42,10 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <img src="assets/icons8-react.svg" width="60" height="60">
 
+</div>
+
+<div align="center">
+
 <img src="assets/icons8-mysql.svg" width="60" height="60">
 
 <img src="assets/icons8-postgresql.svg" width="60" height="60">
