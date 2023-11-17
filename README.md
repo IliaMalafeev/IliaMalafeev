@@ -4,6 +4,7 @@
 
 <br>
 
+
 <div align="center">
 
 🗒️ I’m currently learning **Docker & AWS**
@@ -22,9 +23,11 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <hr>
 
+
 <h3 align="center"> My technical stack </h3>
 
 <br>
+
 
 <div align="center">
 
@@ -40,21 +43,27 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <img src="assets/spring.svg" width="60" height="60" alt="spring">
 
+</div>
+
+
+<div align="center">
+
 <img src="assets/reactjs.svg" width="60" height="60" alt="react">
 
 <img src="assets/hibernate.svg" width="60" height="60" alt="react">
 
-</div>
-
-<div align="center">
+<img src="assets/postgresql.svg" width="60" height="60" alt="postgresql">
 
 <img src="assets/mysql.svg" width="60" height="60" alt="mysql">
-
-<img src="assets/postgresql.svg" width="60" height="60" alt="postgresql">
 
 <img src="assets/tailwind.svg" width="60" height="60" alt="tw">
 
 <img src="assets/docker.svg" width="60" height="60" alt="docker">
+
+</div>
+
+
+<div align="center">
 
 <img src="assets/aws.svg" width="60" height="60" alt="aws">
 
@@ -62,9 +71,14 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <img src="assets/git.svg" width="60" height="60" alt="stripe">
 
+<img src="assets/intellij-idea.svg" width="60" height="60" alt="postgresql">
+
+<img src="assets/vs-code.svg" width="60" height="60" alt="postgresql">
+
 </div>
 
 <br>
+
 
 <div align="center">
 
@@ -73,5 +87,7 @@ Programming and markup languages: **Java, JavaScript, TypeScript, HTML, CSS**
 Frameworks and libraries: **Spring Framework, ReactJS, Hibernate, Tailwind**
 
 Databases and other tools: **MySQL, PostgreSQL, Docker, Amazon Web Services, Stripe payments, Git**
+
+IDEs: **IntelliJ IDEA, Visual Studio Code**
 
 </div>
