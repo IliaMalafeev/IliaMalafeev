@@ -1,8 +1,10 @@
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
 <h1 align="center"> Hi there, my name is Ilia Malafeev 👋 </h1>
 
 <h3 align="center"> Junior Fullstack | Backend developer 💻 </h3>
 
-<br>
+<hr>
 
 <div align="center">
 
@@ -25,6 +27,8 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 <hr>
 
 <h3 align="center"> My technical stack </h3>
+
+<br>
 
 <div align="center">
 
@@ -61,5 +65,17 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 <img src="assets/stripe.svg" width="60" height="60" alt="stripe">
 
 <img src="assets/git.svg" width="60" height="60" alt="stripe">
+
+</div>
+
+<br>
+
+<div align="center">
+
+Programming and markup languages: **Java, JavaScript, TypeScript, HTML, CSS**
+
+Frameworks and libraries: **Spring Framework, ReactJS, Hibernate, Tailwind**
+
+Databases and other tools: **MySQL, PostgreSQL, Docker, Amazon-Web-Services, Stripe payments, Git**
 
 </div>
