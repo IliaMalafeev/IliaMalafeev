@@ -21,7 +21,6 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 <hr>
 
 
-
 <h3 align="center"> My technical stack </h3>
 
 <br>
