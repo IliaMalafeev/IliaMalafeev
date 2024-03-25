@@ -1,14 +1,14 @@
 <h1 align="center"> Hi there, my name is Ilia Malafeev 👋 </h1>
 
-<h3 align="center"> Junior Fullstack | Backend developer 💻 </h3>
+<h3 align="center"> Fullstack | Backend Software Engineer 💻 </h3>
 
 <br>
 
 
 <div align="center">
 
-🗒️ I’m currently learning **Docker & AWS** \
-👔 I’m looking for a job as **Junior Fullstack | Backend developer** \
+🗒️ I’m currently learning **AWS** \
+👔 I’m looking for a job as **Fullstack | Backend developer** \
 💬 Ask me about any topic among my techstack or my projects
 
 📫 How to reach me: \
@@ -57,6 +57,8 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 <img src="assets/docker.svg" width="55" height="55" alt="docker">
 
+<img src="assets/firebase.svg" width="55" height="50" alt="firebase">
+
 <img src="assets/aws.svg" width="55" height="55" alt="aws">
 
 <img src="assets/stripe.svg" width="55" height="55" alt="stripe">
@@ -76,7 +78,7 @@ WhatsApp & Telegram: **+34 711 075 177 (Spain)**
 
 Programming and markup languages: **Java, JavaScript, TypeScript, HTML, CSS** \
 Frameworks and libraries: **Spring Framework, ReactJS, Hibernate, Tailwind** \
-Databases and other tools: **MySQL, PostgreSQL, Docker, Amazon Web Services, Stripe, Git** \
+Databases and other tools: **MySQL, PostgreSQL, Docker, Firebase, Amazon Web Services, Stripe, Git** \
 IDEs: **IntelliJ IDEA, Visual Studio Code**
 
 </div>
